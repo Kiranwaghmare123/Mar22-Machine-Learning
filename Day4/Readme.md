@@ -1,8 +1,11 @@
 
 Day 4: Data Pre-processing
 =================================================
+
 Date: 15/07/2022
+
 Topics:
+
 ------------------
 	-Knowledge Extraction
 	-Regression Analysis

@@ -24,7 +24,10 @@ Steps for implementing ML Model
 
     6.Visualizing the Test set results
 
+Home Work:
+--------------
 
+	Download an Height and Weight dataset and design a Simple Linear Regression Model.
 
 
 Interview Questions:
